@@ -13,8 +13,8 @@ For modules see requirements.txt
 Edit your config's path with the desired one
 
 ```
-<!-- example -->
-path = '/home/user/manga/' <!-- be sure to append a slash '/' to the path -->
+# example
+path = '/home/user/manga/' # be sure to append a slash '/' to the path
 ```
 
 ```
